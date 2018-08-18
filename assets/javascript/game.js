@@ -69,7 +69,7 @@ $(document).ready(function () {
                     if (nextGame) {
                         clearSpan();
                     };
-                },10);
+                },20);
             }
         }else {
             alert("You've already chosen that letter! Pick again!")
